@@ -1,0 +1,14 @@
+[
+  {
+    "name": "App 1",
+    "image": "https://example.com/app1_icon.png"
+  },
+  {
+    "name": "App 2",
+    "image": "https://example.com/app2_icon.png"
+  },
+  {
+    "name": "App 3",
+    "image": "https://example.com/app3_icon.png"
+  }
+]
