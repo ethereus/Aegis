@@ -1,14 +1,18 @@
 [
-  {
-    "name": "App 1",
-    "image": "https://example.com/app1_icon.png"
-  },
-  {
-    "name": "App 2",
-    "image": "https://example.com/app2_icon.png"
-  },
-  {
-    "name": "App 3",
-    "image": "https://example.com/app3_icon.png"
-  }
+{
+"name": "Example Package 1",
+"image": "https://example.com/repo/icon1.png",
+"url": "https://example.com/repo/package_file2",
+"description": "An example of a software package distributed through Aegis.",
+"version": "0.1",
+"md5": "03b36gh37f91h2fh37f7578hfi465d5"
+},
+{
+"name": "Example Package 2",
+"image": "https://example.com/repo/icon2.png",
+"url": "https://example.com/repo/package_file2",
+"description": "An example of a software package distributed through Aegis.",
+"version": "0.2",
+"md5": "fh37f7578hfi465d503b36gh37f91h2"
+}
 ]
